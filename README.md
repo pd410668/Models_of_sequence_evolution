@@ -10,4 +10,7 @@ Calculating probabilities of sequences transforms in evolution model (Jukes-Cant
 ./evolution_simulator.py example.fasta -m kimura -o pK.png
 ```
 
+* Kimura model
 ![pJK.png](https://github.com/pd410668/Models_of_sequence_evolution/blob/main/demo/pJK.png)
+* Jukes-Cantor model
+![pJK.png](https://github.com/pd410668/Models_of_sequence_evolution/blob/main/demo/pK.png)
