@@ -11,7 +11,7 @@ Calculating probabilities of sequences transforms in evolution model (Jukes-Cant
 ```
 
 ## Jukes-Cantor model
-![pJK.png](https://github.com/pd410668/Models_of_sequence_evolution/blob/main/demo/pJK.png)
+![pJK.png](https://github.com/pd410668/Models_of_sequence_evolution/blob/main/demo/pJK.png =250x250)
 
 ## Kimura model
 ![pJK.png](https://github.com/pd410668/Models_of_sequence_evolution/blob/main/demo/pK.png)
